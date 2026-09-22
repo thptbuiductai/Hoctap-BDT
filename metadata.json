@@ -1,0 +1,8 @@
+{
+  "name": "Trợ lý học tập THPT Bùi Dục Tài",
+  "description": "Hệ thống quản trị học tập và trợ lý giáo dục dành cho giáo viên và học sinh trường THPT Bùi Dục Tài - Thầy Trần Văn Bích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
